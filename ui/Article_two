@@ -1,0 +1,19 @@
+<html>
+<head>
+  <title>
+    Article Two
+  </title>
+</head>
+<body>
+  <div>
+    <a href="/"> Home </a>
+  </div>
+  <hr/>
+  <h3>Article Two</h3>
+  <div>March 2, 2018</div>
+  <div>
+    <p>This is the content for article two.<br>This is the content for article two.<br>This is the content for article two.</p>
+    <p>This is the content for article two.<br>This is the content for article two.<br>This is the content for article two.</p>      
+  </div>
+</body>
+</html>
